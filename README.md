@@ -1,4 +1,4 @@
-# homebrew-hombrew
+# homebrew-brew
 Homebrew Repository for my OpenSource Projects
 
 ## Steps for generating SHA key
